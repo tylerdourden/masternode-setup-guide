@@ -1,4 +1,4 @@
-![Example-Logo](https://imgur.com/e9DINQo)
+![Example-Logo](https://i.imgur.com/e9DINQo.png)
 # XStake Masternode Setup Guide (Ubuntu 16.04)
 This guide will assist you in setting up a XStake Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
 
