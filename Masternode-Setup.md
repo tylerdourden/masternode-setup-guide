@@ -133,7 +133,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ## Section D: Preparing the Local wallet
 
 ***Step 1***
-* Download and install the XStake wallet [here](https://github.com/xstake/xstk/releases/tag/v0.9.1)
+* Download and install the XStake wallet [here](https://github.com/xstake/xstk/releases/tag/0.9.1)
 ***
 
 ***Step 2***
